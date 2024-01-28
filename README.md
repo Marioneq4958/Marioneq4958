@@ -2,15 +2,11 @@
   
 <h2>💻 I'm using</h3>
   
-<span align="center">
-  
-  [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Marioneq4958)
-  [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Marioneq4958)
-  [![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=scss&logoColor=white)](https://github.com/Marioneq4958)
-  [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Marioneq4958)
-  [![Vue Js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js)](https://github.com/Marioneq4958)
-  
-</span>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,nodejs,vue,express,fastapi,figma,firebase,git,github,mongodb,netlify,postgres,vscode&perline=10" />
+  </a>
+</p>
 
 <h2>📈 My stats</h3>
  
