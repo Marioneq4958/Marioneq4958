@@ -14,5 +14,6 @@
   
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marioneq4958&theme=tokyonight)](https://github.com/Marioneq4958)
   [![Top Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marioneq4958&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/Marioneq4958)
+  [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marioneq4958&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
 </span>
